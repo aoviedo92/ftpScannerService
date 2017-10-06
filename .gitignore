@@ -1,0 +1,7 @@
+.idea/
+build/
+dist/
+*.pyc
+json_data.json
+datatest.json
+a.js

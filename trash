@@ -1,0 +1,16 @@
+# host = args[1]
+# user = args[2]
+# try:
+#     passw = args[3]
+# except IndexError:
+#     passw = ""
+# try:
+#     scan_dir = args[4]
+# except IndexError:
+#     scan_dir = ""
+# try:
+#     scan_dir = args[5]
+# except IndexError:
+#     server_name = "my_server"
+            print(count_scanned_dirs, count_scanned_files)
+"C:\Python34\python.exe"
